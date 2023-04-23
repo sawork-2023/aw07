@@ -18,6 +18,4 @@ Please finish the following tasks:
 - Download no less than two categories of these metadata and reviews.
 - Referring the example code in this repo, convert each line in the downloaded files into a POJO of `Product` class and save the object in a database like MySQL. 
 - Integrate the database containing Amazon product metadata and reviews with your own AW06 project and build an Amazon WebPOS system.
-
-
-And, of course, always try to make the system run as fast as possible.
+- **In your README.md, tell us how you make the data processing as fast as possible.**
